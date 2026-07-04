@@ -1,0 +1,10 @@
+{
+  "name": "monad-state-checkpoint-manager",
+  "version": "1.0.0",
+  "description": "Non-blocking snapshot management and incremental checkpoint framework for MonadDB",
+  "main": "runCheckpointManager.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5"
+  }
+}
